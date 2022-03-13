@@ -15,4 +15,4 @@ After criteria is chosen, the generated password will show in the textarea. User
 Process:
 Create for-loop that will generate a password that includes confirmation criteria listed above
 Random character from confirmation prompts is guaranteed to be in generated password.
-If password length is outside of parameters, application will terminate, and an alert prompt will inform user to try again.
+If password length is outside of parameters, application will terminate, and an alert prompt will inform user to try again.![Password generator](https://user-images.githubusercontent.com/98536530/158039439-2d664cb4-a7e7-4e9f-a632-7e6c8f9779f2.png)
